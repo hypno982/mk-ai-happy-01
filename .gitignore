@@ -1,0 +1,5 @@
+/out/
+__pycache__/
+*-kit/
+gen3.py
+main.ts
